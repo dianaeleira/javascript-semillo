@@ -1,0 +1,32 @@
+body{
+	background-color:antiquewhite !important;
+}
+#divContent{
+	position: relative; 
+}
+#divTitle{
+	position: absolute; 
+	left: 30px; 
+	top: 50px; 
+	color:white;
+	font-size: 5em;
+}
+
+#divResumen{
+	background-color: black;
+	color: antiquewhite;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	padding: 2% 2% 2% 2%;
+}
+
+.btn-link {
+    color: #1d2124 !important;
+    font-weight: 500 !important;
+    font-size: 1.5em !important;
+}
+.card-body{
+	padding: 5% !important;
+	background-color: antiquewhite;
+}
+
